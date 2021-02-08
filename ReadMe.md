@@ -16,7 +16,7 @@ You may use the pre-built app (see [release tab](https://github.com/fahidRM/agen
 
 1. Launch app.
 2. Click the `Start Debugging` button. This would open a socket that listens at port `3000`.
-3. Launch you multi-agent system that has been configured to make log states as `JSON` as defined [here](http://).
+3. Launch you multi-agent system that has been configured to make log states as `JSON` as defined [here](https://github.com/fahidRM/logging-project).
 4. If your `MAS`  consists of multiple agents, use the selector to choose between agents. While no agent has been chosen, the app chooses the first agent that logs its state.
 
 
