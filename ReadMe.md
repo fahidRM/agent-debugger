@@ -6,6 +6,8 @@ __`Email`: `frm24@bath.ac.uk`__
 Visual Debugging Tool for Multi-Agent Systems. 
 
 
+![Screenshot](docs/debugger.png)
+
 #### 1.0. Installation
 
 You may use the pre-built app (see [release tab](https://github.com/fahidRM/agent-debugger/releases)) or build this repository using the guide below (see section: `Running & Building`).
@@ -61,11 +63,23 @@ All other dependencies have been bundled along with the source code. These are:
 
 `Note`: If you are developing on Windows, we suggest `option 2` as `option 1` includes the use of the `rm` command which is unavailable on Windows.
 
-#### 4.0. Acknowledgement
+#### 4.0. How to use
+
+1. After installation, launch the app.
+2. Click on the `Start Debugger` button.
+3. Launch you `MAS` that supports a compatible logging scheme (see [sample project](https://github.com/fahidRM/logging-project)).
+4. Once launched navigate back to the dashboard to view your agent's state
+5. Once done, click the `Reset` button if you want to debug another MAS.
+6. Use the `Disable Autoscroll` button to stop autoscrolling.
+7. Click on a node to observe the belief-base at that point.
+8. Hover over a node to see additional informaiton.
+
+
+#### 5.0. Acknowledgement
 
 - [Photon Kit](https://github.com/connors/photon) : Base CSS styling used. Released under MIT license.
 
-#### 5.0. License
+#### 6.0. License
 
 Contact Fahid.
 
