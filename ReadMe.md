@@ -1,9 +1,9 @@
-## Agents Visual Debugger
+## Agents Visual Transparency Tool
 __`Author`: `Fahid RM`__
 
 __`Email`: `frm24@bath.ac.uk`__
 
-Visual Debugging Tool for Multi-Agent Systems. 
+Visual transparency Tool for Multi-Agent Systems. 
 
 
 ![Screenshot](docs/debugger.png)
